@@ -1,0 +1,23 @@
+.first{
+    margin: auto;
+    width: 75%;
+    text-align: center;
+}
+
+input{
+    width: 75%;
+}
+
+button{
+    background-color: green;
+    padding: 4px;
+    color: white;
+}
+
+.buton{
+    padding: 15px;
+}
+
+#h33{
+    color: green;
+}
